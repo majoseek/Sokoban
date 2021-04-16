@@ -1,4 +1,4 @@
-# Sokoban using C language
+# Sokoban
 ## Description
 Sokoban is a popular puzzle game in which the player pushes boxes around in a warehouse, trying to get them to storage locations.\
 To move player on the board type in 2 commands XY where:\
